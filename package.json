@@ -1,6 +1,6 @@
 {
   "name": "jsxhint",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "description": "Wrapper for JSHint to allow hinting of JSX files",
   "main": "jsxhint.js",
   "bin": "./cli.js",
@@ -36,11 +36,11 @@
     "fs-extra": "^0.16.5",
     "glob-all": "^3.0.1",
     "jshint": "^2.6.0",
-    "react-tools": "^0.13.1",
+    "jstransform": "^11.0.1",
     "through": "~2.3.6"
   },
   "devDependencies": {
-    "babel": "^4.0.1",
+    "babel": "^5.4.0",
     "precommit-hook": "~1.0.7",
     "tap": "~0.4.13"
   },
